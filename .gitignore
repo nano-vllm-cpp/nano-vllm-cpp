@@ -1,3 +1,21 @@
+# Build directory
+/build/
+
+# vcpkg
+/vcpkg_installed/
+vcpkg/
+
+# VSCode
+/.vscode/
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+
+# Clangd
+.cache
+
 # Prerequisites
 *.d
 
